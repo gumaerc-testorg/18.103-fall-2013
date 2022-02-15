@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Notes & Readings
 uid: fb668941-e58b-c646-a20c-7d64a24c019b
 ---
@@ -69,7 +71,7 @@ Measurable Functions, Lebesgue Integral
 Sections 2.1 and 2.2
 {{< tdclose >}}
 {{< tdopen >}}
-<no notes>
+\<no notes>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ Convergence Theorems, Riemann Integrability
 Sections 2.3 and 2.4
 {{< tdclose >}}
 {{< tdopen >}}
-<no notes>
+\<no notes>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +101,7 @@ Fubini's Theorem, Independent Random Variables
 Sections 2.5, 2.6, and 2.7
 {{< tdclose >}}
 {{< tdopen >}}
-<no notes>
+\<no notes>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +158,7 @@ Section 3.4
 Applications of Fourier Series
 {{< tdclose >}}
 {{< tdopen >}}
-<no readings>
+\<no readings>
 {{< tdclose >}}
 {{< tdopen >}}
 [Fourier Series, Part 3 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries3)
@@ -201,7 +203,7 @@ Section 3.8
 Brownian Motion
 {{< tdclose >}}
 {{< tdopen >}}
-<no readings>
+\<no readings>
 {{< tdclose >}}
 {{< tdopen >}}
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Brownian Motion (PDF)]({{< baseurl >}}/resources/mit18_103f13_brownian)
@@ -216,10 +218,10 @@ Brownian Motion
 Brownian Motion Concluded, Review for Final Exam
 {{< tdclose >}}
 {{< tdopen >}}
-<no readings>
+\<no readings>
 {{< tdclose >}}
 {{< tdopen >}}
-<no notes>
+\<no notes>
 {{< tdclose >}}
 
 {{< trclose >}}

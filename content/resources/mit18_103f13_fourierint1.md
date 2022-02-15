@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding fourier integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-103-fourier-analysis-fall-2013/d95e4644254e96ffe92a970c5ed65b0e_MIT18_103F13_fourierint1.pdf
+file: /media/courses/18-103-fourier-analysis-fall-2013/d95e4644254e96ffe92a970c5ed65b0e_MIT18_103F13_fourierint1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lecture Notes & Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 18.103 Fourier Analysis, Fourier Integrals
 uid: d95e4644-254e-96ff-e92a-970c5ed65b0e

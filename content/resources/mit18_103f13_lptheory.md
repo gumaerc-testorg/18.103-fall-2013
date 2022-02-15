@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lp theory.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-103-fourier-analysis-fall-2013/7f4e5db3ab4b9c8d861a4711731f4b7c_MIT18_103F13_lptheory.pdf
+file: /media/courses/18-103-fourier-analysis-fall-2013/7f4e5db3ab4b9c8d861a4711731f4b7c_MIT18_103F13_lptheory.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lecture Notes & Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 18.103 Fourier Analysis, Lp Theory
 uid: 7f4e5db3-ab4b-9c8d-861a-4711731f4b7c
