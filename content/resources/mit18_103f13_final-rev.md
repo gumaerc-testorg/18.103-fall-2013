@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fb17c618-b888-3960-3cd5-10268ee244c8
 resourcetype: Document
 title: 18.103 Fourier Analysis, Final Exam Review
 uid: 6790f08a-c2db-d904-526a-f294f8df9cca

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Readings
 parent_type: CourseSection
+parent_uid: fb668941-e58b-c646-a20c-7d64a24c019b
 resourcetype: Document
 title: 18.103 Fourier Analysis, Fourier Series, part 1
 uid: 1c196caa-6307-e0be-4645-6cf6dc76b543

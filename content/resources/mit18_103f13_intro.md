@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Readings
 parent_type: CourseSection
+parent_uid: fb668941-e58b-c646-a20c-7d64a24c019b
 resourcetype: Document
 title: 18.103 Fourier Analysis, Introductory Lecture
 uid: 520f7dd7-d278-c9a9-af25-0d5ed84fbef5

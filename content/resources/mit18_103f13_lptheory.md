@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Readings
 parent_type: CourseSection
+parent_uid: fb668941-e58b-c646-a20c-7d64a24c019b
 resourcetype: Document
 title: 18.103 Fourier Analysis, Lp Theory
 uid: 7f4e5db3-ab4b-9c8d-861a-4711731f4b7c

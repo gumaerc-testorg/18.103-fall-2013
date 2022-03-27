@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fb17c618-b888-3960-3cd5-10268ee244c8
 resourcetype: Document
 title: 18.103 Fourier Analysis, Practice midterm test solutions
 uid: 70314e9e-62e2-d421-4549-2dfcb88df6ca

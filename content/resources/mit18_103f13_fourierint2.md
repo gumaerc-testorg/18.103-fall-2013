@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Readings
 parent_type: CourseSection
+parent_uid: fb668941-e58b-c646-a20c-7d64a24c019b
 resourcetype: Document
 title: 18.103 Fourier Analysis, Fourier Integrals, Part 2
 uid: 3908fc19-d4b2-b4a2-12df-3242ba4bd613

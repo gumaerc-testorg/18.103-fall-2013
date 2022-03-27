@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fb17c618-b888-3960-3cd5-10268ee244c8
 resourcetype: Document
 title: 18.103 Fourier Analysis, Midterm test description
 uid: fab13ed7-a991-7680-5891-06ef9a7903c7
