@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and readings, the
+  lecture notes, and additional notes to supplement the textbook.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes & Readings
@@ -41,7 +43,7 @@ Coin Tossing, Law of Large Numbers, Rademacher Functions
 Sections 1.1 and 1.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introductory Lecture (PDF)]({{< baseurl >}}/resources/mit18_103f13_intro)
+{{% resource_link 520f7dd7-d278-c9a9-af25-0d5ed84fbef5 "Introductory Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +58,7 @@ Measure Theory, Random Models
 Sections 1.3 and 1.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Boolean Rings (PDF)]({{< baseurl >}}/resources/mit18_103f13_booleanrings)
+{{% resource_link 5f9a7ca9-3481-e3a7-a0cd-aa27be00dad5 "Boolean Rings (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +118,7 @@ Lebesgue Spaces, Inner Products
 Sections 3.1 and 3.2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lp Theory (PDF)]({{< baseurl >}}/resources/mit18_103f13_lptheory)
+{{% resource_link 7f4e5db3-ab4b-9c8d-861a-4711731f4b7c "Lp Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ Hilbert Space, Midterm Review
 Section 3.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Hilbert Space and Orthonormal Bases (PDF)]({{< baseurl >}}/resources/mit18_103f13_orthonormal)
+{{% resource_link ed61fb83-c469-b13b-92b6-3399d9bf220e "Hilbert Space and Orthonormal Bases (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +148,7 @@ Fourier Series and their Convergence
 Section 3.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourier Series, Part 1 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries1), ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fourier Series, Part 2 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries2)
+{{% resource_link 1c196caa-6307-e0be-4645-6cf6dc76b543 "Fourier Series, Part 1 (PDF)" %}}, {{% resource_link 103cd3a9-5867-5d9b-5c4e-405ad8ea77fd "Fourier Series, Part 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +163,7 @@ Applications of Fourier Series
 \<no readings>
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourier Series, Part 3 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries3)
+{{% resource_link 63577c6d-fc0a-f665-376b-373b297a4185 "Fourier Series, Part 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +178,7 @@ Fourier Integrals
 Section 3.5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fourier Integrals (PDF)]({{< baseurl >}}/resources/mit18_103f13_fourierint1)
+{{% resource_link d95e4644-254e-96ff-e92a-970c5ed65b0e "Fourier Integrals (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +193,7 @@ Fourier Integrals of Measures, Central Limit Theorem
 Section 3.8
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourier Integrals, Measures, and Central Limit Theorem (PDF)]({{< baseurl >}}/resources/mit18_103f13_fourierint2)
+{{% resource_link 3908fc19-d4b2-b4a2-12df-3242ba4bd613 "Fourier Integrals, Measures, and Central Limit Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +208,7 @@ Brownian Motion
 \<no readings>
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Brownian Motion (PDF)]({{< baseurl >}}/resources/mit18_103f13_brownian)
+{{% resource_link 2d1680e7-1e65-a03b-7f79-4f9cb6f34bdc "Brownian Motion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
