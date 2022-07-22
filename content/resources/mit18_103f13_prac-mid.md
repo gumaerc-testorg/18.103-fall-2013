@@ -6,6 +6,7 @@ file: /courses/18-103-fourier-analysis-fall-2013/14dc6503325ff96b225c147408682ed
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 18.103 Fourier Analysis, Practice midterm test
 uid: 14dc6503-325f-f96b-225c-147408682ed7
 ---
 This is a resource file that contains information regarding practice midterm test.
-

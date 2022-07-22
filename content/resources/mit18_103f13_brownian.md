@@ -5,6 +5,7 @@ description: This is a resource file that contains information regarding brownia
 file: /courses/18-103-fourier-analysis-fall-2013/2d1680e71e65a03b7f794f9cb6f34bdc_MIT18_103F13_brownian.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes & Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.103 Fourier Analysis, Brownian Motion
 uid: 2d1680e7-1e65-a03b-7f79-4f9cb6f34bdc
 ---
 This is a resource file that contains information regarding brownian motion.
-
