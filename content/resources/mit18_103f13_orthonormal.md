@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding hilbert space
   & orthonormal bases.
 file: /courses/18-103-fourier-analysis-fall-2013/ed61fb83c469b13b92b63399d9bf220e_MIT18_103F13_orthonormal.pdf
+file_size: 135219
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
