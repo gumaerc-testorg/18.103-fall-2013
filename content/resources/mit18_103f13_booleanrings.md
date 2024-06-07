@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding boolean rings.
 file: /courses/18-103-fourier-analysis-fall-2013/5f9a7ca93481e3a7a0cdaa27be00dad5_MIT18_103F13_booleanrings.pdf
+file_size: 106388
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
