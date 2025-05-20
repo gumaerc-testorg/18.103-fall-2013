@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding practice
   midterm test solutions.
-file: /ol-ocw-studio-app/courses/18-103-fourier-analysis-fall-2013/70314e9e62e2d42145492dfcb88df6ca_MIT18_103F13_prac-mid-sol.pdf
+file: /courses/18-103-fourier-analysis-fall-2013/70314e9e62e2d42145492dfcb88df6ca_MIT18_103F13_prac-mid-sol.pdf
 file_size: 105522
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lp theory.
-file: /ol-ocw-studio-app/courses/18-103-fourier-analysis-fall-2013/7f4e5db3ab4b9c8d861a4711731f4b7c_MIT18_103F13_lptheory.pdf
+file: /courses/18-103-fourier-analysis-fall-2013/7f4e5db3ab4b9c8d861a4711731f4b7c_MIT18_103F13_lptheory.pdf
 file_size: 149743
 file_type: application/pdf
 learning_resource_types: []
