@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding midterm test
   review.
-file: /ol-ocw-studio-app/courses/18-103-fourier-analysis-fall-2013/ec79a4c912faf80e8739032d6f9223d2_MIT18_103F13_midterm-rev.pdf
+file: /courses/18-103-fourier-analysis-fall-2013/ec79a4c912faf80e8739032d6f9223d2_MIT18_103F13_midterm-rev.pdf
 file_size: 123306
 file_type: application/pdf
 learning_resource_types:
