@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding fourier series
   part 1.
-file: /ol-ocw-studio-app/courses/18-103-fourier-analysis-fall-2013/1c196caa6307e0be46456cf6dc76b543_MIT18_103F13_fseries1.pdf
+file: /courses/18-103-fourier-analysis-fall-2013/1c196caa6307e0be46456cf6dc76b543_MIT18_103F13_fseries1.pdf
 file_size: 149246
 file_type: application/pdf
 learning_resource_types: []
