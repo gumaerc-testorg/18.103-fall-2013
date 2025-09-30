@@ -8,7 +8,7 @@ title: Assignments
 uid: e888107f-6ea2-091e-b47e-13640f15c7af
 ---
 
-The notation "AG" in the following problem sets refers to problems in Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with [Google Books](http://books.google.com/books?id=LFgcCbJ9BccC&pg=PAfrontcover)\]
+The notation "AG" in the following problem sets refers to problems in Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with {{% resource_link "15ccf9b7-9ee3-49bf-aff9-104e76d1acff" "Google Books" %}}\]
 
  {{% resource_link da2c68c1-0721-f3dc-7a4c-74c84b1a14dc "Problem Set 1 (PDF)" %}}
 
