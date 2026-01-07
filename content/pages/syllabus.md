@@ -24,7 +24,7 @@ Textbooks
 
 The primary text book is Adams and Guillemin, but we will also refer to Stein and Shakarchi later in the semester.
 
-Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with {{% resource_link "15ccf9b7-9ee3-49bf-aff9-104e76d1acff" "Google Books" %}}\]
+Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with [Google Books](http://books.google.com/books?id=LFgcCbJ9BccC&pg=PAfrontcover)\]
 
 Stein, Elias M., and Rami Shakarchi. _Fourier Analysis: An Introduction_. Princeton University Press, 2003. ISBN: 9780691113845.
 
